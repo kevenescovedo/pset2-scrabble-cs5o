@@ -1,5 +1,5 @@
 
-# PSET 1 DINHEIRO CS50 HAVERD
+# PSET 2 SCRABBLE CS50 HAVERD
 
 Este repositório contém a solução do PSET2 SCABBLE
 Background
